@@ -33,4 +33,4 @@ Following items are done/partial done by the slide and illustrations:
 * Shopping Carts: overview, ERD and table design, scalable options.
 * Order and Delivery: only overview, ERD and table design.
 * Customer and Session: only overview and ERD.
-* Reaitailer and Integration: only overview and ERD.
+* Retailer and Integration: only overview and ERD.
